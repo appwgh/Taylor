@@ -21,7 +21,7 @@ DESC
   s.source           = { :git => "https://github.com/izqui/Taylor.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/izqui9'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
   
   s.requires_arc = true
